@@ -1,2 +1,3 @@
-level*/venv/bin/*
-level*/venv/lib/*
+*/venv/bin/*
+*/venv/lib/*
+
